@@ -12,6 +12,7 @@ public class User {
 
     public String name;
     public String email;
+    //changed
 
     // Default constructor required for calls to
     // DataSnapshot.getValue(User.class)
